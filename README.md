@@ -190,6 +190,16 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 
-## Authors
-- Caleb Ini. Duff
-- Okpara Onyedikachi G
+### AUTHOR:
+	
+ #### MONEHIN FEYISARA
+
+> EMAIL: monehinfeyisara.d@gmail.com
+	
+> COUNTRY: Nigeria
+	
+### DARE OLUWATOSIN
+	
+> EMAIL: 
+	
+> COUNTRY: Nigeria
