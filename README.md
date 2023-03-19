@@ -198,7 +198,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 	
 > COUNTRY: Nigeria
 	
-### DARE OLUWATOSIN
+#### DARE OLUWATOSIN
 	
 > EMAIL: 
 	
